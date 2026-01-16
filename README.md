@@ -59,6 +59,7 @@ The application emphasizes **clean architecture**, **secure authentication**, **
 * **Authentication:** Appwrite Auth
 * **Database:** Appwrite Databases
 * **User Management:** Appwrite Users API
+* **State Management:** Zustand
 
 ### Deployment
 
